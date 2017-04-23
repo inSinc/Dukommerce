@@ -1,0 +1,6 @@
+framework module Pods_DukommerceUITests {
+  umbrella header "Pods-DukommerceUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
